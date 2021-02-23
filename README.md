@@ -1,14 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-[![Adbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adbar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+⚡ [Website](https://adrien.barbaresi.eu/)&nbsp;&nbsp; ✍ &nbsp;[Blog](https://adrien.barbaresi.eu/blog/)&nbsp;&nbsp; 🐦 &nbsp;[Twitter](https://twitter.com/adbarbaresi)&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🔭 Currently working on gathering texts on the Web and detecting word trends
 
-⚡ Website: https://adrien.barbaresi.eu/
+---
 
-📫 Twitter: [@adbarbaresi](https://twitter.com/adbarbaresi)
+Most popular blog posts:
 
-💬 Blog: https://adrien.barbaresi.eu/blog/
+- [Extracting the main text content from web pages using Python](https://adrien.barbaresi.eu/blog/trafilatura-main-text-content-python.html)
+- [Parsing and converting HTML documents to XML format](https://adrien.barbaresi.eu/blog/parsing-converting-lxml-html-tei.html)
+- [A module to extract date information from web pages](https://adrien.barbaresi.eu/blog/python-extract-date-web-pages.html)
+
+
 
 
 <!--
@@ -26,4 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Adbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adbar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
