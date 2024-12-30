@@ -16,8 +16,8 @@ I'm a data engineer and scientist specializing in natural language processing. O
 - [Web scraping with R: Text and metadata extraction](https://adrien.barbaresi.eu/blog/web-scraping-text-metadata-r.html)
 
 
-### Open-Source Stack
+### Tech Stack
 
-[![Open source skills](https://skillicons.dev/icons?i=ansible,bash,css,debian,elasticsearch,fastapi,fediverse,flask,git,html,js,latex,linux,md,mint,mysql,nginx,perl,py,r,redis,regex,rust,sqlite,sklearn,tensorflow)](https://skillicons.dev)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| Open source skills | Programming languages |
+| ------------------ | --------------------- |
+| [![Open source skills](https://skillicons.dev/icons?i=ansible,bash,css,debian,elasticsearch,fastapi,fediverse,flask,git,html,js,latex,linux,md,mint,mysql,nginx,perl,py,r,redis,regex,rust,sqlite,sklearn,tensorflow)](https://skillicons.dev) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
