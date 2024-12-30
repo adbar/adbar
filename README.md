@@ -18,16 +18,15 @@ I'm a data engineer and scientist specializing in natural language processing. O
 
 ### Open-Source Tech Stack
 
+<table><tr>
+<td width="50%">
+[![Open source skills](https://skillicons.dev/icons?i=ansible,bash,css,debian,elasticsearch,fastapi,fediverse,flask,git,html,js,latex,linux,md,mint,mysql,nginx,perl,py,r,redis,regex,rust,sqlite,sklearn,tensorflow)](https://skillicons.dev)
+</td>
+<td width="50%">
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr></table>
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
-
-| Skills | Languages |
+| Skills | Programming languages |
 | ------------------ | --------------------- |
 | [![Open source skills](https://skillicons.dev/icons?i=ansible,bash,css,debian,elasticsearch,fastapi,fediverse,flask,git,html,js,latex,linux,md,mint,mysql,nginx,perl,py,r,redis,regex,rust,sqlite,sklearn,tensorflow)](https://skillicons.dev) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adbar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
